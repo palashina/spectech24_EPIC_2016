@@ -134,7 +134,7 @@ input, button, select, textarea{
 .promo_block{
 	padding-top: 130px;
 	padding-bottom: 128px;
-	background-image: url(../img/ekskavator_main.png);
+	background-image: url(../ekskavator_main.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -317,7 +317,7 @@ div.consult-form:after{
 
 .facts-item:before{
 	position: absolute;
-	background-image: url(../img/spritesheet.png);
+	background-image: url(../spritesheet.png);
 	left: 0;
 	top: 0;
 	content: '';
@@ -568,7 +568,7 @@ blockquote .review-quote{
 .technic-rent{
 	padding-top: 45px;
 	padding-bottom: 45px;
-	background-image: url(../img/ekskavator_catalog.png);
+	background-image: url(../ekskavator_catalog.png);
     background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -793,7 +793,7 @@ blockquote .review-quote{
 
 .icon-dwnld:before{
 	position: absolute;
-	background-image: url(../img/spritesheet.png);
+	background-image: url(../spritesheet.png);
 	left: 0;
 	top: 0;
 	content: '';
@@ -863,7 +863,7 @@ blockquote .review-quote{
 .catalog-offers{
 	padding-top: 37px;
 	padding-bottom: 48px;
-	background-image: url(../img/ekskavator-catalog-sec.png);
+	background-image: url(../ekskavator-catalog-sec.png);
     background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -896,7 +896,7 @@ blockquote .review-quote{
 .portfolio-menu{
 	padding-top: 36px;
 	padding-bottom: 40px;
-	background-image: url(../img/ekskavator_portfolio.png);
+	background-image: url(../ekskavator_portfolio.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -944,7 +944,7 @@ blockquote .review-quote{
 .project-item-first{
 	padding-top: 100px;
 	padding-bottom: 157px;
-	background-image: url(../img/portfolio_1.png);
+	background-image: url(../portfolio_1.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -953,7 +953,7 @@ blockquote .review-quote{
 .project-item-second{
 	padding-top: 100px;
 	padding-bottom: 159px;
-	background-image: url(../img/portfolio_2.png);
+	background-image: url(../portfolio_2.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -962,7 +962,7 @@ blockquote .review-quote{
 .project-item-third{
 	padding-top: 100px;
 	padding-bottom: 159px;
-	background-image: url(../img/portfolio_3.png);
+	background-image: url(../portfolio_3.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -1026,7 +1026,7 @@ blockquote .review-quote{
 .contact-us{
 	padding-top: 33px;
 	padding-bottom: 20px;
-	background-image: url(../img/ekskavator_contacts.png);
+	background-image: url(../ekskavator_contacts.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -1140,7 +1140,7 @@ div.mail{
 
 .phone:before{
 	position: absolute;
-	background-image: url(../img/spritesheet.png);
+	background-image: url(../spritesheet.png);
 	left: 0;
 	top: 0;
 	content: '';
@@ -1158,7 +1158,7 @@ div.mail{
 
 .mail:before{
 	position: absolute;
-	background-image: url(../img/spritesheet.png);
+	background-image: url(../spritesheet.png);
 	left: 0;
 	top: 0;
 	content: '';
